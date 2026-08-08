@@ -1,0 +1,12 @@
+{
+  "id": "5",
+  "subject": "Add tests and documentation",
+  "description": "Add API tests and README setup documentation for the React consumer and local PostgreSQL environment.",
+  "activeForm": "Adding tests and documentation",
+  "metadata": {},
+  "status": "pending",
+  "blocks": [],
+  "blockedBy": [],
+  "createdAt": "2026-08-08T07:07:20.470Z",
+  "updatedAt": "2026-08-08T07:07:20.470Z"
+}

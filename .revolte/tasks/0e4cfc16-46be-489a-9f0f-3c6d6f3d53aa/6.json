@@ -1,0 +1,12 @@
+{
+  "id": "6",
+  "subject": "Verify project build and diff",
+  "description": "Run lint, typecheck, tests, build, and diff checks; inspect results and report limitations.",
+  "activeForm": "Verifying project build and diff",
+  "metadata": {},
+  "status": "pending",
+  "blocks": [],
+  "blockedBy": [],
+  "createdAt": "2026-08-08T07:07:20.471Z",
+  "updatedAt": "2026-08-08T07:07:20.471Z"
+}

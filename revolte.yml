@@ -15,6 +15,7 @@ revolte:
   env:
     preview:
       codeReview: true
+      codeQuality: true
       testSuite: true
       services:
         rid_1:
